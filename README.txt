@@ -1,1 +1,1 @@
-This repository is created for the purpose of keeping track of my learning progress in the TUKL Summer Internship 2021.
+This repository is a collection of different ML/DL Models I've worked on as part of a research-based internship at NUST Islamabad (TUKL).
